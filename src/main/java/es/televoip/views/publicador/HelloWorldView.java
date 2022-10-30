@@ -1,4 +1,4 @@
-package es.televoip.views.helloworld;
+package es.televoip.views.publicador;
 
 import com.vaadin.flow.component.Key;
 import com.vaadin.flow.component.button.Button;

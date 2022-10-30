@@ -11,8 +11,8 @@ import com.vaadin.flow.router.PageTitle;
 import com.vaadin.flow.theme.lumo.LumoUtility;
 import es.televoip.components.appnav.AppNav;
 import es.televoip.components.appnav.AppNavItem;
-import es.televoip.views.about.AboutView;
-import es.televoip.views.helloworld.HelloWorldView;
+import es.televoip.views.oyente.AboutView;
+import es.televoip.views.publicador.HelloWorldView;
 
 /**
  * The main view is a top-level placeholder for other views.
